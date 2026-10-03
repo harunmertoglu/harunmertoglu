@@ -1,5 +1,5 @@
 # Harun Raşit Mertoğlu
-[https://harunrasitmertoglu.com](harunrasitmertoglu.com)
+[harunrasitmertoglu.com](https://harunrasitmertoglu.com)
 
 Computer Engineering student and part-time software developer interested in AI engineering, backend systems, and automation. I enjoy turning real-world problems into practical software solutions.
 
